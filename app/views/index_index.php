@@ -10,5 +10,8 @@
 		<span style="font-size:60px; font-family:微软雅黑;">(: </span><br />
 		Welcome to phpGrace ! <a href="http://www.phpgrace.com" target="_blank">访问官网</a>
 	</div>
+	<?php
+	phpinfo();
+	?>
 </body>
 </html>
